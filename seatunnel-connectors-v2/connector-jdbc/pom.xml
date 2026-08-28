@@ -54,7 +54,7 @@
         <iris.jdbc.version>3.0.0</iris.jdbc.version>
         <tikv.version>3.2.0</tikv.version>
         <opengauss.jdbc.version>5.1.0-og</opengauss.jdbc.version>
-        <mariadb.jdbc.version>3.5.1</mariadb.jdbc.version>
+        <mariadb.jdbc.version>3.5.9</mariadb.jdbc.version>
         <highgo.version>6.2.3</highgo.version>
         <presto.version>0.279</presto.version>
         <trino.version>460</trino.version>
